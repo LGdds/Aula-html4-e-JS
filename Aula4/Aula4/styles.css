@@ -1,0 +1,35 @@
+.primeira {
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    border-style: dotted;
+    text-align: center;
+    background-color: blueviolet;
+    border-color: aqua;
+}
+
+.segunda {
+    display: inline-block;
+    width: 200px;
+    height: 75px;
+    text-align: center;
+    background-color: chocolate;
+    border-style: dotted;
+    border-color: limegreen;
+    color: blueviolet;
+    border-width: 5px;
+    border-radius: 50%;
+}
+
+.terceira {
+    display: inline-block;
+    width: 20%;
+    height: 10%;
+    text-align: center;
+    border-style: groove;
+    border-color: deeppink;
+    border-radius: 20px;
+    background-color: black;
+    color: limegreen;
+    border-width: 5px;
+}
